@@ -1,0 +1,7 @@
+.one span {
+  display: inline-block;
+  background-color: red;
+  color: white;
+  font-size: 60px;
+  font-weight: bold;
+}
